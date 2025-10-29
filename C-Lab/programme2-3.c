@@ -1,4 +1,5 @@
-// Write A C programme To Compute 5 Subjects Marks Display Percentage , Total Marks And Pass or Fail.
+// Write A C programme To Compute 5 Subjects Marks Display Percentage , Total Marks And Pass or Fail. 
+// Use if-else.
 #include <stdio.h>
 int main()
  {   int maths , science, english, hindi, social;
