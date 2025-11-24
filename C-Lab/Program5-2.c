@@ -1,4 +1,5 @@
 // Write A C program using Switch case to check entered alphabet is vowel or consonant.
+
 #include <stdio.h>
 
 int main()
