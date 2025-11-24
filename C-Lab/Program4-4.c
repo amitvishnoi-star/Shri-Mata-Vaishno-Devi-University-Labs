@@ -1,7 +1,7 @@
 // Write A c programme To check Wether number is Armstrong Number or not.
 #include <stdio.h>
 #include <math.h>
-int main(void)
+int main()
 {
     int num, ori_n;
     int rem;
